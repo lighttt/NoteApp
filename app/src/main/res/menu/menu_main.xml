@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="np.com.manishtuladhar.noteapp.MainActivity">
+    <item
+        android:id="@+id/add_note"
+        android:orderInCategory="100"
+        android:title="Add Note"
+        app:showAsAction="never" />
+
+</menu>
